@@ -14,7 +14,7 @@ while number < accuracy:
     
     factorial = factorial * number
     
-    e = e + 1 /factorial
+    e = e + 1 / factorial
     number = number + 1
 
 print(f'The value of e is {e+1}')
